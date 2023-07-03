@@ -8,7 +8,11 @@ Project Components:
  Data:
 [City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 # Part 1: Python
+#### Visual 1: Bar Graph Showing District 
+![alt text](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20District.png)
 
+In this graph, District 8 has the most crimes with 523,043 crimes and 
+District 21 has the least crimes with 4 crimes. 
 ## Questions
 1. Comparing Police Districts: Which district has the most crimes? Which has the least?
 2. Crimes Across the Years: Are crimes increasing or decreasing across the years? Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?
