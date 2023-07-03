@@ -1,14 +1,12 @@
 # Chicago_Crime_2001-2023
  ## Update  Coding Dojo Project: Under Construction
-This project uses  data from 2001- 2023 to present information about crime in the greater Chicago area
+This project uses  data from 2001- 2023 to present information about crime in the greater Chicago area.
 
 Project Components:
 1. Answer Questions using Python and Visuals.
 2. Tableau Visuals 
  Data:
 [City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
-# Part 1: Python
-
 ## Questions
 1. Comparing Police Districts: Which district has the most crimes? Which has the least?
 2. Crimes Across the Years: Are crimes increasing or decreasing across the years? Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?
@@ -24,6 +22,16 @@ Project Components:
 5. Comparing Holidays:
    - Are there any holidays that show an increase in the # of crimes?
    - Are there any holidays that show a decrease in the # of crimes?
+# Part 1: Python
+#### Visual 1: Bar Graph Showing District 
+![alt text](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20District.png)
+
+In this graph, District 8 has the most crimes with 523,043 crimes and 
+District 21 has the least crimes with 4 crimes. 
+#### Visual 3: Bar Graph of Crime over Time
+![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Year.png)
+
+This graph shows a  downward trend of crime from 2001-2023 with the highest number of crimes in 2002 and the lowest in 2023. 
 # Part 2: Tableau
 ![alttext](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Screenshot%20(142).png)
 
