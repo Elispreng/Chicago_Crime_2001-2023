@@ -28,7 +28,10 @@ Project Components:
 
 In this graph, District 8 has the most crimes with 523,043 crimes and 
 District 21 has the least crimes with 4 crimes. 
+#### Visual 3: Bar Graph of Crime over Time
+![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Year.png)
 
+This graph shows a  downward trend of crime from 2001-2023 with the highest number of crimes in 2002 and the lowest in 2023. 
 # Part 2: Tableau
 ![alttext](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Screenshot%20(142).png)
 
