@@ -42,8 +42,9 @@ This graph shows a  downward trend of crime from 2001-2023 with the highest numb
 
 #### Visual #4 ; Bar Plot of Crimes by Holiday
 ![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Holiday.png)
- New Years's Day has the highest number of crimes of 33,523 
- Juneteenth National Independence Day (Observed)  has the lowest number of crimes of  1,402. 
+
+New Years's Day has the highest number of crimes of 33,523 
+Juneteenth National Independence Day (Observed)  has the lowest number of crimes of  1,402. 
 
  
 # Part 2: Tableau
