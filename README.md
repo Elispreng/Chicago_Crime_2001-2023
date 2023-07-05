@@ -23,27 +23,28 @@ Project Components:
    - Are there any holidays that show an increase in the # of crimes?
    - Are there any holidays that show a decrease in the # of crimes?
 # Part 1: Python
-#### Visual 1: Bar Graph Showing District 
+## Visual 1: Bar Graph Showing District 
 ![alt text](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20District.png)
 
 In this graph, District 8 has the most crimes with 523,043 crimes and 
 District 21 has the least crimes with 4 crimes. 
-#### Visual 2: Bar Graph of Crime over Time
+## Visual 2: Bar Graph of Crime over Time
 ![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Year.png)
 
 This graph shows a  downward trend of crime from 2001-2023 with the highest number of crimes in 2002 and the lowest in 2023. 
 
-#### Visual 2: Bar Graph of Crime by Month
-![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Month.png)
+## Visual 4: Bar Graph of Crime by Month
+![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Month2.png)
 
-#### July has the highest amount  with  717,108 crimes
-#### February has the lowest amount  with 547, 436 crimes.
+ - #### July has the highest amount  with  717,108 crimes
+ - #### February has the lowest amount  with 547, 436 crimes.
 
 
-#### Visual #4 ; Bar Plot of Crimes by Holiday
+## Visual 5:  Bar Plot of Crimes by Holiday
 ![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Holiday.png)
- New Years's Day has the highest number of crimes of 33,523 
- Juneteenth National Independence Day (Observed)  has the lowest number of crimes of  1,402. 
+
+ - New Years's Day has the highest number of crimes of 33,523 
+ - Juneteenth National Independence Day (Observed)  has the lowest number of crimes of  1,402. 
 
  
 # Part 2: Tableau
