@@ -34,7 +34,7 @@ District 21 has the least crimes with 4 crimes.
 This graph shows a  downward trend of crime from 2001-2023 with the highest number of crimes in 2002 and the lowest in 2023. 
 
 #### Visual 2: Bar Graph of Crime by Month
-![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Month.png)
+![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Crime%20by%20Month2.png)
 
 #### July has the highest amount  with  717,108 crimes
 #### February has the lowest amount  with 547, 436 crimes.
