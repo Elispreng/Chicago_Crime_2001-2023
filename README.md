@@ -37,12 +37,12 @@ This graph shows a  downward trend of crime from 2001-2023 with the highest numb
 ![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/AM%20and%20PM%20crimes.png)
 
   -  #### AM and PM Crimes have the same types of top 5 but there are more crimes in PM rush hour.
-    AM Crimes
+    AM Crimes                                                   PM Crimes
     1. THEFT                                116860
     2. BATTERY                               76524
-3. CRIMINAL DAMAGE                       51133
-4. BURGLARY                              44289
-5. OTHER OFFENSE                         39724
+    3. CRIMINAL DAMAGE                       51133
+    4. BURGLARY                              44289
+    5. OTHER OFFENSE                         39724
 
 
 ## Visual 4: Bar Graph of Crime by Month
