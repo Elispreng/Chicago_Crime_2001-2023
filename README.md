@@ -2,11 +2,13 @@
  ## Update  Coding Dojo Project: Under Construction
  [Coding dojo GitHub](https://github.com/coding-dojo-data-science/preparing-chicago-crime-data)
 
+ ###  Data:
+[City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+
 ## Project Components: Crime Data  from  2001- 2023 in the greater Chicago area.
 1. Answer Questions using Python and Visuals.
 2. Tableau Visuals 
- Data:
-[City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+   
 ## Questions
 1. Comparing Police Districts: Which district has the most crimes? Which has the least?
 2. Crimes Across the Years: Are crimes increasing or decreasing across the years? Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?
