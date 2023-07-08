@@ -34,7 +34,7 @@ District 21 has the least crimes with 4 crimes.
 This graph shows a  downward trend of crime from 2001-2023 with the highest number of crimes in 2002 and the lowest in 2023. 
 
 ## Visual 3: Comparing AM and PM Rush Hour Crimes
-![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/AM%20and%20PM%20crimes.png)
+![image](https://github.com/Elispreng/Chicago_Crime_2001-2023/blob/main/Images/Top%205%20AM%20and%20PM%20crimes.png)
 
   -  #### AM and PM Crimes have the same types of top 5 but there are more crimes in PM rush hour.
     Crime                                   AM Crimes             PM Crimes
@@ -64,5 +64,5 @@ This graph shows a  downward trend of crime from 2001-2023 with the highest numb
 
 ## Other links and contacts: 
 
-
+Please contact me at ElizabethSpreng@EliDataAnalytics.onmicrosoft.com 
 [Coding Dojo github](https://github.com/coding-dojo-data-science/preparing-chicago-crime-data) 
