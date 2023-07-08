@@ -1,9 +1,8 @@
 # Chicago_Crime_2001-2023
  ## Update  Coding Dojo Project: Under Construction
  [Coding dojo GitHub](https://github.com/coding-dojo-data-science/preparing-chicago-crime-data)
-This project uses  data from 2001- 2023 to present information about crime in the greater Chicago area.
 
-Project Components:
+## Project Components: Crime Data  from  2001- 2023 in the greater Chicago area.
 1. Answer Questions using Python and Visuals.
 2. Tableau Visuals 
  Data:
