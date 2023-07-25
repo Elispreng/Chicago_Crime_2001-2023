@@ -5,7 +5,7 @@
  ###  Data: [City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
 
 ## Project Components: Crime Data  from  2001- 2023 in the greater Chicago area.
-1. Answer Questions using Python and Visuals.
+1. Answer Stakeholder Questions using Python and Visuals.
 2. Tableau Visuals 
    
 ## Questions
