@@ -6,7 +6,7 @@
 
 ## Project Components: Crime Data  from  2001- 2023 in the greater Chicago area.
 1. Answer Stakeholder Questions using Python and Visuals.
-2. Tableau Visuals 
+2. Tableau Visuals with Dynamic User Input (working)
    
 ## Questions
 1. Comparing Police Districts: Which district has the most crimes? Which has the least?
