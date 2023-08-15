@@ -1,5 +1,4 @@
-# Chicago_Crime_2001-2023
- ## Update  Coding Dojo Project: Under Construction
+# Chicago Crime 2001-2023
  [Coding dojo GitHub](https://github.com/coding-dojo-data-science/preparing-chicago-crime-data)
 
  ###  Data: [City of Chicago](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
